@@ -21,13 +21,10 @@ function Allocate() {
         <div className="grid grid-cols-1 sm:grid-row-1 lg:grid-cols-3 md:grid-cols-3 ">
           <div className="flex flex-col items-start rounded-lg shadow-md space-y-2 gap-0">
           <span className="text-3xl font-bold text-primary mb-2">32%</span>
-          <p className="text-sm font-semibold text-secondary mb-4">Improvement in <br/>Open Rates</p>
-
-
-            
+          <p className="text-sm font-semibold text-secondary mb-4">Improvement in <br/>Open Rates</p>  
           </div>
 
-          <div className="flex flex-col rounded-lg shadow-md ">
+          <div className="flex flex-col rounded-lg shadow-md justify-start gap-0 mr-20 ">
             
           <span className="text-3xl font-bold text-primary mb-2">75%</span>
             <p className="text-sm font-semibold text-secondary mt-4">Improvement in <br/>Ramp Time</p>

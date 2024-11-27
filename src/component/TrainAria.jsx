@@ -17,7 +17,7 @@ function TrainAria() {
         </div>
 
         {/* Responsive Grid Layout */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-0">
+        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-0">
           {/* Quick to Ramp */}
           <div className="flex flex-row items-center text-center justify-end mr-6">
             <img
