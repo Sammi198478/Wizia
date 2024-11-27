@@ -19,7 +19,7 @@ function TrainAria() {
         {/* Responsive Grid Layout */}
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-0">
           {/* Quick to Ramp */}
-          <div className="flex flex-row items-center text-center justify-end mr-16">
+          <div className="flex flex-row items-center text-center justify-end mr-26">
             <img
               src="./ph_check-circle-duotone.png"
               alt="Quick to ramp"
@@ -39,7 +39,7 @@ function TrainAria() {
           </div>
 
               {/* Quick to Scale Up */}
-              <div className="flex flex-row items-center text-center justify-end mr-10">
+              <div className="flex flex-row items-center text-center justify-end mr-20">
             <img
               src="./ph_check-circle-duotone.png"
               alt="Quick to scale up"
