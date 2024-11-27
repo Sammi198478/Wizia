@@ -5,21 +5,21 @@
 
 
 .hero{
-    background: url(Img.png)  center;
+    background: url(./Img.png)  center;
     max-width: 1440px;
     
    
 }
 
 .trainAria{
-    background: url(bg.png) center;
+    background: url(./bg.png) center;
     max-width: 1440px;
-    height: 300px;
+    
 
 }
 
 .allocate{
-    background: url(bg2.png);
+    background: url(./bg2.png);
     max-width: 1440px;
     
 }
