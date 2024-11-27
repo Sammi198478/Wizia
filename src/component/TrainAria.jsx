@@ -19,7 +19,7 @@ function TrainAria() {
         {/* Responsive Grid Layout */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-0">
           {/* Quick to Ramp */}
-          <div className="flex flex-row items-center text-center justify-end mr-4">
+          <div className="flex flex-row items-center text-center justify-end mr-6">
             <img
               src="./ph_check-circle-duotone.png"
               alt="Quick to ramp"
@@ -29,7 +29,7 @@ function TrainAria() {
           </div>
 
           {/* Easy to Optimize */}
-          <div className="flex flex-row items-center text-center">
+          <div className="flex flex-row items-center text-center ">
             <img
               src="./ph_check-circle-duotone.png"
               alt="Easy to optimize"
@@ -39,7 +39,7 @@ function TrainAria() {
           </div>
 
               {/* Quick to Scale Up */}
-              <div className="flex flex-row items-center text-center">
+              <div className="flex flex-row items-center text-center justify-end mr-4">
             <img
               src="./ph_check-circle-duotone.png"
               alt="Quick to scale up"
