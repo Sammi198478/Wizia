@@ -23,7 +23,7 @@ const Button = ({ className, variant, children }) => {
 
 function Hero() {
   return (
-    <section className='py-12 bg-[#02242A] max-w-[1440px] bg-[url(Img.png)]  bg-cover bg-center align-middle'>
+    <section className='py-12 bg-[#02242A] max-w-[1440px] bg-[url(/Img.png)]  bg-cover bg-center align-middle'>
       <div className='container mx-auto px-6 sm:px-12 hero'>
         <div className='grid grid-cols-1 md:grid-cols-2 gap-10'>
           {MoreLeads.map((item, i) => (
