@@ -2,7 +2,7 @@ import React from 'react';
 
 function TrainAria() {
   return (
-    <section className="py-12 bg-[#07292F] max-w-[1440px] bg-[url(./bg.png)] bg-cover bg-center align-middle">
+    <section className="py-12 bg-[#07292F] max-w-[1440px] bg-[url(bg.png)] bg-cover bg-center align-middle">
       <div className="container mx-auto px-6 trainAria">
         <div className="text-center mb-8">
           <h3 className="text-2xl sm:text-3xl font-bold mt-16 mb-4">

@@ -2,7 +2,7 @@ import React from 'react';
 
 function Allocate() {
   return (
-    <section className="py-12 bg-[#07292F] max-w-[1440px] bg-[url(./bg2.png)] bg-cover bg-center align-middle">
+    <section className="py-12 bg-[#07292F] max-w-[1440px] bg-[url(bg2.png)] bg-cover bg-center align-middle">
       <div className="container mx-auto px-6 allocate">
         {/* Header Section */}
         <div className="text-start mb-12">
